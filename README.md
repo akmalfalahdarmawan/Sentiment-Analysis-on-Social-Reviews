@@ -1,5 +1,5 @@
 ![Sentiment Analysis](background.jpeg)
-# Analisis Sentimen Ulasan (ID)
+# Analisis Sentimen Ulasan
 
 _Pembaruan dari proyek **Machine-Learning-For-Indonesian-Text-Sentiment-Classification**._
 
