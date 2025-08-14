@@ -3,7 +3,7 @@
 
 _Pembaruan dari proyek **Machine-Learning-For-Indonesian-Text-Sentiment-Classification**._
 
-Aplikasi ini mengklasifikasikan ulasan berbahasa Indonesia menjadi **negative / neutral / positive**. Fokusnya membantu tim **Quality Assurance / Support** menangkap keluhan lebih cepat, dengan antarmuka yang sederhana untuk uji teks tunggal maupun unggah file.
+Aplikasi ini mengklasifikasikan ulasan berbahasa Indonesia menjadi **negative / neutral / positive**. Fokusnya membantu tim **Marketing Team / Customer Support** menangkap keluhan lebih cepat, dengan antarmuka yang sederhana untuk uji teks tunggal maupun unggah file.
 
 ---
 
