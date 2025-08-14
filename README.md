@@ -28,3 +28,7 @@ pip install -r requirements.txt
 # pastikan artifact model tersedia:
 # sentiment_pipeline_group.joblib  (di root /models /artifacts)
 streamlit run app.py
+
+**Developed by Akmal Falah Darmawan**  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentiment-analysis-on-social-reviews-eyfpvdqq5dycv9qt4iroed.streamlit.app/)
+
